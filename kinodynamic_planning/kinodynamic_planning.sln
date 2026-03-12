@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kinodynamic_planning", "kinodynamic_planning.pyproj", "{B80C0C93-8F3D-472C-A560-839E5EB5DF02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B80C0C93-8F3D-472C-A560-839E5EB5DF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80C0C93-8F3D-472C-A560-839E5EB5DF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE283B84-4CC5-456E-BD5A-1175F88FDD10}
+	EndGlobalSection
+EndGlobal

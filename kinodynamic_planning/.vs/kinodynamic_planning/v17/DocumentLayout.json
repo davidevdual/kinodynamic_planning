@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\kinodynamic_planning.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|solutionrelative:kinodynamic_planning.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kinodynamic_planning.py",
+              "DocumentMoniker": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\kinodynamic_planning.py",
+              "RelativeDocumentMoniker": "kinodynamic_planning.py",
+              "ToolTip": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\kinodynamic_planning.py",
+              "RelativeToolTip": "kinodynamic_planning.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-12T06:59:17.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
