@@ -2,18 +2,14 @@ import os
 import pybullet as p
 import pybullet_data
 import math
-import time
 
 p.connect(p.GUI);
 p.setGravity(0,0,-10);
 
 urdfRootPath=pybullet_data.getDataPath();
 pandaUid = p.loadURDF(os.path.join(pybullet_data.getDataPath(), "franka_panda/panda.urdf"),useFixedBase=True);
-
 tableUid = p.loadURDF(os.path.join(urdfRootPath, "table/table.urdf"),basePosition=[0.5,0,-0.65]);
-
 trayUid = p.loadURDF(os.path.join(urdfRootPath, "tray/traybox.urdf"),basePosition=[0.65,0,0]);
-
 objectUid = p.loadURDF(os.path.join(urdfRootPath, "random_urdfs/000/000.urdf"), basePosition=[0.7,0,0.1]);
 
 p.resetDebugVisualizerCamera(cameraDistance=1.5, cameraYaw=0, cameraPitch=-40, cameraTargetPosition=[0.55,-0.35,0.2]);
@@ -58,4 +54,3 @@ while True:
         state_t = 0;
 
     p.stepSimulation();
-    time.sleep(1./240.);

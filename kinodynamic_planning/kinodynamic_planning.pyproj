@@ -11,6 +11,8 @@
     <OutputPath>.</OutputPath>
     <Name>kinodynamic_planning</Name>
     <RootNamespace>kinodynamic_planning</RootNamespace>
+    <InterpreterId>Global|VisualStudio|kinodynamic_planning_venv</InterpreterId>
+    <TestFramework>Pytest</TestFramework>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +23,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="test_simplegrasp_pstctrl.py" />
     <Compile Include="kinodynamic_planning.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|VisualStudio|kinodynamic_planning_venv" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
