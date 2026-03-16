@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\kinodynamic_planning.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|solutionrelative:kinodynamic_planning.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\position_control_example.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|solutionrelative:position_control_example.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\torque_control_example.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|solutionrelative:torque_control_example.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\test_simplegrasp_pstctrl.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|solutionrelative:test_simplegrasp_pstctrl.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +25,46 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "torque_control_example.py",
+              "DocumentMoniker": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\torque_control_example.py",
+              "RelativeDocumentMoniker": "torque_control_example.py",
+              "ToolTip": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\torque_control_example.py",
+              "RelativeToolTip": "torque_control_example.py",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-13T07:16:57.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "position_control_example.py",
+              "DocumentMoniker": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\position_control_example.py",
+              "RelativeDocumentMoniker": "position_control_example.py",
+              "ToolTip": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\position_control_example.py",
+              "RelativeToolTip": "position_control_example.py",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-13T06:26:24.288Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "kinodynamic_planning.py",
-              "DocumentMoniker": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\kinodynamic_planning.py",
-              "RelativeDocumentMoniker": "kinodynamic_planning.py",
-              "ToolTip": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\kinodynamic_planning.py",
-              "RelativeToolTip": "kinodynamic_planning.py",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "test_simplegrasp_pstctrl.py",
+              "DocumentMoniker": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\test_simplegrasp_pstctrl.py",
+              "RelativeDocumentMoniker": "test_simplegrasp_pstctrl.py",
+              "ToolTip": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\test_simplegrasp_pstctrl.py",
+              "RelativeToolTip": "test_simplegrasp_pstctrl.py",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-03-12T06:59:17.915Z",
+              "WhenOpened": "2026-03-13T02:56:13.213Z",
               "EditorCaption": ""
             }
           ]

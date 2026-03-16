@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b80c0c93-8f3d-472c-a560-839e5eb5df02</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>kinodynamic_planning.py</StartupFile>
+    <StartupFile>position_control_example.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,7 +24,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="test_simplegrasp_pstctrl.py" />
-    <Compile Include="kinodynamic_planning.py" />
+    <Compile Include="position_control_example.py" />
+    <Compile Include="torque_control_example.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|VisualStudio|kinodynamic_planning_venv" />

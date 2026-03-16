@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\kinodynamic_planning.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|solutionrelative:kinodynamic_planning.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\position_control_example.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B80C0C93-8F3D-472C-A560-839E5EB5DF02}|kinodynamic_planning.pyproj|solutionrelative:position_control_example.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "kinodynamic_planning.py",
-              "DocumentMoniker": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\kinodynamic_planning.py",
-              "RelativeDocumentMoniker": "kinodynamic_planning.py",
-              "ToolTip": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\kinodynamic_planning.py",
-              "RelativeToolTip": "kinodynamic_planning.py",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Title": "position_control_example.py",
+              "DocumentMoniker": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\position_control_example.py",
+              "RelativeDocumentMoniker": "position_control_example.py",
+              "ToolTip": "C:\\Users\\DNCM\\Documents\\Visual_Studio_GitRepos\\kinodynamic_planning\\kinodynamic_planning\\position_control_example.py",
+              "RelativeToolTip": "position_control_example.py",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwD4AAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-03-12T06:59:17.915Z",
+              "WhenOpened": "2026-03-13T06:26:24.288Z",
               "EditorCaption": ""
             }
           ]
